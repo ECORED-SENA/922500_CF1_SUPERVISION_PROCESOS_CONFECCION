@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1030.761" height="94.045" viewBox="0 0 1030.761 94.045">
+  <g id="Grupo_57932" data-name="Grupo 57932" transform="translate(-285 -806.58)">
+    <g id="Grupo_55775" data-name="Grupo 55775" transform="translate(225.083 94.154)">
+      <g id="Grupo_55771-5" data-name="Grupo 55771-5" transform="translate(59.917 712.426)">
+        <rect id="Rectángulo_5264-5" data-name="Rectángulo 5264-5" width="252.897" height="61.442" transform="translate(23.401 18.476)" fill="#dbfafa"/>
+        <rect id="Rectángulo_5265-5" data-name="Rectángulo 5265-5" width="290.201" height="89.194" transform="translate(4.799 4.09)" fill="none" stroke="#52d0d3" stroke-miterlimit="10" stroke-width="1.522"/>
+        <rect id="Rectángulo_5266-5" data-name="Rectángulo 5266-5" width="9.051" height="26.194" transform="translate(0 2.057)" fill="#25ced1"/>
+        <rect id="Rectángulo_5267-5" data-name="Rectángulo 5267-5" width="26.194" height="9.051" transform="translate(0.001)" fill="#25ced1"/>
+      </g>
+    </g>
+    <g id="Grupo_55775-2" data-name="Grupo 55775" transform="translate(960.083 94.154)">
+      <g id="Grupo_55771-5-2" data-name="Grupo 55771-5" transform="translate(59.917 712.426)">
+        <path id="Rectángulo_5264-5-2" data-name="Rectángulo 5264-5" d="M0,0H252.9V61.442H0Z" transform="translate(23.401 18.476)" fill="#fce5e9"/>
+        <rect id="Rectángulo_5265-5-2" data-name="Rectángulo 5265-5" width="290.201" height="89.194" transform="translate(4.799 4.09)" fill="none" stroke="#ea526f" stroke-miterlimit="10" stroke-width="1.522"/>
+        <rect id="Rectángulo_5266-5-2" data-name="Rectángulo 5266-5" width="9.051" height="26.194" transform="translate(0 2.057)" fill="#ea526f"/>
+        <rect id="Rectángulo_5267-5-2" data-name="Rectángulo 5267-5" width="26.194" height="9.051" transform="translate(0.001)" fill="#ea526f"/>
+      </g>
+    </g>
+    <g id="Grupo_55775-3" data-name="Grupo 55775" transform="translate(593.083 94.154)">
+      <g id="Grupo_55771-5-3" data-name="Grupo 55771-5" transform="translate(59.917 712.426)">
+        <rect id="Rectángulo_5264-5-3" data-name="Rectángulo 5264-5" width="252.897" height="61.442" transform="translate(23.401 18.476)" fill="#ffe8de"/>
+        <rect id="Rectángulo_5265-5-3" data-name="Rectángulo 5265-5" width="290.201" height="89.194" transform="translate(4.799 4.09)" fill="none" stroke="#ff8a5b" stroke-miterlimit="10" stroke-width="1.522"/>
+        <rect id="Rectángulo_5266-5-3" data-name="Rectángulo 5266-5" width="9.051" height="26.194" transform="translate(0 2.057)" fill="#ff8a5b"/>
+        <rect id="Rectángulo_5267-5-3" data-name="Rectángulo 5267-5" width="26.194" height="9.051" transform="translate(0.001)" fill="#ff8a5b"/>
+      </g>
+    </g>
+    <g id="Descripción_Detallada_del_Escenario" data-name="Descripción Detallada del Escenario" transform="translate(-3507.523 -350.453)" style="isolation: isolate">
+      <text id="Manuales" transform="translate(3940.523 1211.675)" fill="#12263f" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="-37.295" y="0">Manuales</tspan></text>
+    </g>
+    <g id="Descripción_Detallada_del_Escenario-2" data-name="Descripción Detallada del Escenario" transform="translate(-3060.524 -350.453)" style="isolation: isolate">
+      <text id="Semiautomáticas_" data-name="Semiautomáticas " transform="translate(3861.524 1211.675)" fill="#12263f" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="-68.818" y="0">Semiautomáticas </tspan></text>
+    </g>
+    <g id="Descripción_Detallada_del_Escenario-3" data-name="Descripción Detallada del Escenario" transform="translate(-2693.524 -350.453)" style="isolation: isolate">
+      <text id="Completamente_automáticas" data-name="Completamente automáticas" transform="translate(3861.524 1211.675)" fill="#12263f" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700" style="isolation: isolate"><tspan x="-110.355" y="0">Completamente automáticas</tspan></text>
+    </g>
+  </g>
+</svg>
